@@ -17,4 +17,4 @@ A simple restaurant table booking system implemented using JavaScript, leveragin
 [https://restraunt-table-booking-system.vercel.app/]
 
 # Demo Image
-![Table Booking System](images/Screenshot 2024-11-10 114632.png)
+![Table Booking System](images/Screenshot.png)
