@@ -14,5 +14,7 @@ A simple restaurant table booking system implemented using JavaScript, leveragin
   - Example: If all 2-seater tables are booked, guests are shifted to a 4-seater or 6-seater.
 
 # Live Website link 
-[]
+[https://restraunt-table-booking-system.vercel.app/]
 
+# Demo Image
+![Table Booking System](images/Screenshot 2024-11-10 114632.png)
